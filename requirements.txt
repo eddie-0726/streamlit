@@ -1,3 +1,4 @@
+streamlit
 jieba
 bs4
 numpy 
