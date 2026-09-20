@@ -2,4 +2,4 @@ jieba
 bs4
 numpy 
 pandas
-maplotlib
+matplotlib
